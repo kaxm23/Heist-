@@ -1,8 +1,8 @@
-# 🕵️‍♂️ Heist Challenge Solver – TryHackMe
+#  Heist Challenge Solver – TryHackMe
 
 A Python script to exploit a vulnerable Ethereum smart contract in the TryHackMe **Heist** room.
 
-## 🚀 Features
+##  Features
 
 - Fetches challenge data via the API
 - Takes contract ownership
